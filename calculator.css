@@ -1,0 +1,53 @@
+.all {
+    background-color: black;
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+    margin-top: 200px;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    border-radius: 10px;
+}
+
+.buttons {
+    display: flex;
+    margin-left: 12px;
+}
+
+.all input {
+    margin: 12px;
+    height: 40px;
+    width: 87%;
+}
+
+.buttons button {
+    width: 35px;
+    height: 35px;
+    margin-right: 13px;
+    margin-bottom: 9px;
+    margin-top: 4px;
+}
+
+.clear {
+    background-color: rgb(207, 166, 90);
+    border-style: none;
+    border-radius: 5px;
+}
+
+.equals {
+    background-color: rgb(53, 101, 53);
+    border-style: none;
+    border-radius: 5px;
+}
+
+.num {
+    background-color: white;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.sin {
+    background-color: white;
+    border-style: none;
+    border-radius: 5px;
+}
